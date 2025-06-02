@@ -95,8 +95,8 @@ const HeroSection = ({
               size="lg"
               asChild
             >
-              <a href="/assets/gourav-resume.pdf" download>
-                Download Resume
+              <a href="/GOURAV_SHARMA resume (1).pdf" download>
+  <button className="btn-primary">Download Resume</button>
               </a>
             </Button>
           </motion.div>
